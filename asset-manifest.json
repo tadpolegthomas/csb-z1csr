@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://tadpolegthomas.github.io/csb-z1csr/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://tadpolegthomas.github.io/csb-z1csr/static/js/main.1702d790.chunk.js",
+    "main.js.map": "https://tadpolegthomas.github.io/csb-z1csr/static/js/main.1702d790.chunk.js.map",
+    "runtime-main.js": "https://tadpolegthomas.github.io/csb-z1csr/static/js/runtime-main.59cab3d9.js",
+    "runtime-main.js.map": "https://tadpolegthomas.github.io/csb-z1csr/static/js/runtime-main.59cab3d9.js.map",
+    "static/js/2.ddce9bf0.chunk.js": "https://tadpolegthomas.github.io/csb-z1csr/static/js/2.ddce9bf0.chunk.js",
+    "static/js/2.ddce9bf0.chunk.js.map": "https://tadpolegthomas.github.io/csb-z1csr/static/js/2.ddce9bf0.chunk.js.map",
+    "index.html": "https://tadpolegthomas.github.io/csb-z1csr/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://tadpolegthomas.github.io/csb-z1csr/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.ddce9bf0.chunk.js.LICENSE.txt": "https://tadpolegthomas.github.io/csb-z1csr/static/js/2.ddce9bf0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59cab3d9.js",
+    "static/js/2.ddce9bf0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.1702d790.chunk.js"
+  ]
+}
